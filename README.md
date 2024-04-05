@@ -1,5 +1,5 @@
 # GraphQL Auth
-
+  
 [![Build Status](https://travis-ci.org/o2web/graphql-auth.svg?branch=master)](https://travis-ci.org/o2web/graphql-auth) [![Maintainability](https://api.codeclimate.com/v1/badges/7e2515bb59f0b205a603/maintainability)](https://codeclimate.com/github/o2web/graphql-auth/maintainability)
 [![Downloads](https://img.shields.io/gem/dt/graphql-auth.svg)](https://rubygems.org/gems/graphql-auth)
 [![Latest Version](https://img.shields.io/gem/v/graphql-auth.svg)](https://rubygems.org/gems/graphql-auth)
