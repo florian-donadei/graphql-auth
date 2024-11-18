@@ -22,6 +22,7 @@ class Mutations::Auth::SignUp < GraphQL::Schema::Mutation
   def resolve(args)
     response = context[:response]
     user = User.new args
+    user.skip_confirmation!
 
     if user.save
       generate_access_token(user, response)
